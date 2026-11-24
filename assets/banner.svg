@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Muhammad Adil — AI &amp; Data Science Engineer building autonomous AI agents">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#818CF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.28"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowP" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.30"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="0.6" opacity="0.55"/></pattern>
+  
+</defs>
+<style>
+  .cursor { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0 } }
+</style>
+<rect width="1200" height="360" rx="22" fill="#050A18"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="980" cy="120" r="260" fill="url(#glowP)"/>
+<circle cx="760" cy="330" r="220" fill="url(#glowC)"/>
+<rect x="0.5" y="0.5" width="1199" height="359" rx="22" fill="none" stroke="#1E293B"/>
+<rect x="60" y="0" width="220" height="4" rx="2" fill="url(#brand)"/>
+
+<g class="fade">
+  <rect x="60" y="62" width="300" height="30" rx="15" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.5"/>
+  <circle cx="80" cy="77" r="5" fill="#34D399"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="94" y="82" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" font-weight="600" fill="#22D3EE" letter-spacing="1.5">AI &amp; DATA SCIENCE ENGINEER</text>
+</g>
+<text class="fade d1" x="58" y="158" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#F8FAFC" letter-spacing="-1.5">Muhammad Adil</text>
+<text class="fade d2" x="60" y="204" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600" fill="#94A3B8">I build <tspan fill="url(#brand)" font-weight="800">autonomous AI agents</tspan>, n8n automations</text>
+<text class="fade d2" x="60" y="236" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600" fill="#94A3B8">&amp; institutional software that people actually use.<tspan class="cursor" fill="#22D3EE">▍</tspan></text>
+<g class="fade d3"><rect x="60" y="268" width="75" height="30" rx="15.0" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.55"/><text x="97" y="288" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#22D3EE" text-anchor="middle">Python</text>
+<rect x="145" y="268" width="156" height="30" rx="15.0" fill="#818CF8" fill-opacity="0.10" stroke="#818CF8" stroke-opacity="0.55"/><text x="223" y="288" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#818CF8" text-anchor="middle">Machine Learning</text>
+<rect x="311" y="268" width="50" height="30" rx="15.0" fill="#A78BFA" fill-opacity="0.10" stroke="#A78BFA" stroke-opacity="0.55"/><text x="336" y="288" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#A78BFA" text-anchor="middle">NLP</text>
+<rect x="371" y="268" width="50" height="30" rx="15.0" fill="#F472B6" fill-opacity="0.10" stroke="#F472B6" stroke-opacity="0.55"/><text x="396" y="288" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F472B6" text-anchor="middle">n8n</text>
+<rect x="431" y="268" width="107" height="30" rx="15.0" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.55"/><text x="485" y="288" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#FBBF24" text-anchor="middle">Agentic AI</text></g>
+<text class="fade d4" x="60" y="330" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#64748B">📍 Karachi, Pakistan   ·   🎓 SZABIST ZABTech   ·   🏫 Saylani Mass IT Training</text>
+<g><line x1="965" y1="185" x2="839" y2="112" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#A78BFA"><animateMotion dur="2.6s" repeatCount="indefinite" path="M965,185 L839,112"/></circle>
+<line x1="965" y1="185" x2="818" y2="248" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#22D3EE"><animateMotion dur="3.3s" repeatCount="indefinite" path="M965,185 L818,248"/></circle>
+<line x1="965" y1="185" x2="1060" y2="85" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#A78BFA"><animateMotion dur="4.0s" repeatCount="indefinite" path="M965,185 L1060,85"/></circle>
+<line x1="965" y1="185" x2="1102" y2="227" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#22D3EE"><animateMotion dur="4.699999999999999s" repeatCount="indefinite" path="M965,185 L1102,227"/></circle>
+<line x1="965" y1="185" x2="986" y2="311" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#A78BFA"><animateMotion dur="2.6s" repeatCount="indefinite" path="M965,185 L986,311"/></circle>
+<line x1="839" y1="112" x2="923" y2="38" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#22D3EE"><animateMotion dur="3.3s" repeatCount="indefinite" path="M839,112 L923,38"/></circle>
+<line x1="1060" y1="85" x2="923" y2="38" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#A78BFA"><animateMotion dur="4.0s" repeatCount="indefinite" path="M1060,85 L923,38"/></circle>
+<line x1="1060" y1="85" x2="1144" y2="164" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#22D3EE"><animateMotion dur="4.699999999999999s" repeatCount="indefinite" path="M1060,85 L1144,164"/></circle>
+<line x1="1102" y1="227" x2="1144" y2="164" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#A78BFA"><animateMotion dur="2.6s" repeatCount="indefinite" path="M1102,227 L1144,164"/></circle>
+<line x1="818" y1="248" x2="986" y2="311" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#22D3EE"><animateMotion dur="3.3s" repeatCount="indefinite" path="M818,248 L986,311"/></circle>
+<line x1="1102" y1="227" x2="986" y2="311" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#A78BFA"><animateMotion dur="4.0s" repeatCount="indefinite" path="M1102,227 L986,311"/></circle>
+<line x1="839" y1="112" x2="818" y2="248" stroke="url(#edge)" stroke-width="1.4" opacity="0.55"/>
+<circle r="2.6" fill="#22D3EE"><animateMotion dur="4.699999999999999s" repeatCount="indefinite" path="M839,112 L818,248"/></circle>
+<circle cx="965" cy="185" r="23" fill="#22D3EE" opacity="0.10"><animate attributeName="r" values="19;27;19" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="965" cy="185" r="15" fill="#0B1224" stroke="#22D3EE" stroke-width="2"/>
+<circle cx="839" cy="112" r="17" fill="#A78BFA" opacity="0.10"><animate attributeName="r" values="13;21;13" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="839" cy="112" r="9" fill="#0B1224" stroke="#A78BFA" stroke-width="2"/>
+<circle cx="818" cy="248" r="19" fill="#22D3EE" opacity="0.10"><animate attributeName="r" values="15;23;15" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="818" cy="248" r="11" fill="#0B1224" stroke="#22D3EE" stroke-width="2"/>
+<circle cx="1060" cy="85" r="15" fill="#A78BFA" opacity="0.10"><animate attributeName="r" values="11;19;11" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1060" cy="85" r="7" fill="#0B1224" stroke="#A78BFA" stroke-width="2"/>
+<circle cx="1102" cy="227" r="17" fill="#22D3EE" opacity="0.10"><animate attributeName="r" values="13;21;13" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="1102" cy="227" r="9" fill="#0B1224" stroke="#22D3EE" stroke-width="2"/>
+<circle cx="986" cy="311" r="19" fill="#A78BFA" opacity="0.10"><animate attributeName="r" values="15;23;15" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="986" cy="311" r="11" fill="#0B1224" stroke="#A78BFA" stroke-width="2"/>
+<circle cx="923" cy="38" r="15" fill="#22D3EE" opacity="0.10"><animate attributeName="r" values="11;19;11" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="923" cy="38" r="7" fill="#0B1224" stroke="#22D3EE" stroke-width="2"/>
+<circle cx="1144" cy="164" r="17" fill="#A78BFA" opacity="0.10"><animate attributeName="r" values="13;21;13" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="1144" cy="164" r="9" fill="#0B1224" stroke="#A78BFA" stroke-width="2"/>
+<text x="965" y="190" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="13" font-weight="700" fill="#22D3EE" text-anchor="middle">AI</text></g>
+</svg>
